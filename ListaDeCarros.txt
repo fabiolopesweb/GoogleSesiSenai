@@ -1,12 +1,1 @@
 Gol
-Astra
-Vectra
-Agile
-Palio
-<<<<<<< HEAD
-
-=======
-city
-kadet
-fusca
->>>>>>> 382b383a5d82b5330fabeb700bab0c0510fd7cd8
