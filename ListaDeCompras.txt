@@ -3,3 +3,4 @@ feijão
 macarrao
 acucar
 trigo
+carne moida

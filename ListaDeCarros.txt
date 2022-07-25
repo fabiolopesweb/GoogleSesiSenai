@@ -3,3 +3,6 @@ Astra
 Vectra
 Agile
 Palio
+city
+kadet
+fusca
